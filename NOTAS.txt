@@ -1,3 +1,4 @@
 Comandos en Git:
 git clone {url repository github} --> Clonar un repositorio de github
 git push {conexion} {branch} --> subir tus commits a la nube o github
+git fetch {conexion} {branch} --> traer tus commits de la nube o github
